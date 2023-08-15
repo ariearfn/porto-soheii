@@ -31,11 +31,6 @@ export default {
     baseURL: "/",
   },
 
-  server: {
-    host: "0",
-    port: 3002,
-  },
-
   vuetify: {
     customVariables: ["~/assets/variables.scss"],
     treeShake: true,
